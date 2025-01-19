@@ -6,7 +6,7 @@
 
 ## 🚀 Skills and Tools
 - **Frontend:** HTML, CSS, JavaScript, Next.js  
-- **Backend:** Node.js  
+- **Backend:** Node.js, Python
 - **Other Tools:** Git, VS Code  
 
 ---
