@@ -13,7 +13,7 @@
 
 ## 🌟 What I’m Working On
 - Building personal projects to sharpen my skills and explore creative ideas.  
-- Learning new technologies (right now it's Django).  
+- Learning new technologies.  
 
 ---
 
