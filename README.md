@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Skills and Tools
-- **Frontend:** HTML, CSS, Sass, Tailwind, JavaScript, Typescript, Next.js
+- **Frontend:** HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, Typescript, Next.js
 - **Backend:** Node.js, Python, Django
 - **Other Tools:** Git, VS Code  
 
