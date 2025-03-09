@@ -35,4 +35,4 @@ I started my coding journey as a self-taught developer after my friend suggested
 - [Portfolio](https://bochen28.github.io/)  
 - [LinkedIn](https://www.linkedin.com/in/bochen-frontend/)  
 
-Feel free to check out my repositories and drop me a message. Let’s build something amazing together! 🌟
+Feel free to check out my repositories and drop me a message. ✉️
