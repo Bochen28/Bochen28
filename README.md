@@ -1,6 +1,6 @@
 # Hi there, I'm Patryk! 👋
 
-👨‍💻 **Self-Taught Web Developer** passionate about building intuitive and responsive web applications that are clear and helpful. I love solving problems, learning new technologies, and turning ideas into reality...  
+👨‍💻 **Self-Taught Web Developer** passionate about building intuitive and responsive web applications that are clear and helpful. I love solving problems, learning new technologies, and turning ideas into reality.
 
 ---
 
