@@ -19,7 +19,7 @@
 
 ## 📂 Featured Projects
 ### [Palletizer](https://palletizer.netlify.app/)
-An app that helps verify orders in warehouses, built with Next.js. [Check out the repository here](https://github.com/Bochen28/palletizer) for more details.  
+An app that helps verify orders in warehouses, built with Next.js. [Check out the repository here](https://github.com/Bochen28/palletizer) for more details.
 
 ### [Portfolio](https://bochen28.github.io/)
 A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and JavaScript.
